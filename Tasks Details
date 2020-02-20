@@ -1,0 +1,10 @@
+Text documents, such as resumes and job postings, are usually comprised of topically coherent text data, which within each topically coherent data, one would expect that the word usage demonstrates more consistent lexical distributions than that across data-set.
+
+In this project, I had the following tasks in hand:
+
+- Designing an efficient regex in order to extract the data from the file.
+- Storing and submitting the extracted data into an XML file.
+- Storing and submitting the extracted data into a JSON file.
+- Generating sparse representations for the resumes
+- Converting the extracted data into a proper format.
+- Preprocess a set of resumes and convert them into numerical representations
